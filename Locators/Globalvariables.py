@@ -1,0 +1,12 @@
+class Globalvar():
+    baseURL = "https://www.saucedemo.com/"
+    un = "standard_user"
+    pwd = "secret_sauce"
+    fn = "Garima"
+    ln = "Reddy"
+    zip = "160020"
+    wemail = "jaky902snknk@gmail.com"
+    uname = "Randomyu334"
+    pwd = "random@1234"
+    Chromepath = "C:/Users/Anupam/PycharmProjects/E2EShopping/Drivers/chromedriver.exe"
+    Datasheet = "C:\\Users\\Anupam\\Desktop\\Userlogine2e.xlsx"
